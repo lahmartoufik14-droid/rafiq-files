@@ -1,0 +1,285 @@
+{
+ "packs": [],
+ "ui": {
+  "version": 29,
+  "minApp": 10,
+  "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/ui-29.zip",
+  "size": 831023,
+  "sha256": "6a5d8c91c7b092b68491d6fbe4cc3781cdcd505e31b0b9cfd032b19c3156fbd9",
+  "notes": [
+   "استوديو دماج: صمّم بطاقة أو مقطعاً بصوت الشيخ من أي فتوى (24 قالباً)"
+  ]
+ },
+ "updated": "2026-10-27T22:58",
+ "app": {
+  "versionCode": 10,
+  "versionName": "1.9",
+  "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/rafiq-1.9.apk",
+  "size": 4470683,
+  "sha256": "cf3a2b9bd242fb35fe4864d321622c8e3f59ff9057cb50e65cf6b5749c5b930c",
+  "notes": [
+   "استوديو دماج: صمّم بطاقة أو مقطعاً بصوت الشيخ من أي فتوى (24 قالباً)"
+  ]
+ },
+ "align": {
+  "binbaz": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/align-binbaz-v1.bin",
+   "docs": 14,
+   "parts": {
+    "1": [
+     0,
+     312,
+     "7121aa85c539977572b8518a3f7d434ffed1ac12636894c616aa9e3e9eeb793c"
+    ],
+    "9": [
+     312,
+     4646,
+     "c47467dc552761c70d03b7dcedf9a7c25645f6cb8f547702b95a647eff047632"
+    ],
+    "11": [
+     4958,
+     259,
+     "510917d4d58d5cffc0fae0f0b35441bc9e6216954cc9c3ac1377df1a67fa8f8a"
+    ]
+   }
+  }
+ },
+ "lib": {
+  "binbaz": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-binbaz-v1.bin",
+   "size": 17371824,
+   "n": {
+    "l": 2433,
+    "c": 4,
+    "a": 169,
+    "d": 133,
+    "p": 118,
+    "m": 298,
+    "b": 226,
+    "s": 64
+   },
+   "parts": {
+    "0": [
+     17200780,
+     171044,
+     "91c7f1478189d9b0a33d47844cae93a5532b5cf2a067345ab6c5f8ab113d0f74"
+    ]
+   },
+   "bk": {
+    "v": 1,
+    "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-binbaz-bk-v1.bin",
+    "size": 5798377,
+    "n": {
+     "parts": 330,
+     "text": 30,
+     "pages": 12970
+    },
+    "parts": {
+     "0": [
+      5761434,
+      36943,
+      "642bee943c1ec8a3df841eb55978f6e626518b01f38ecf462cdeebd597d42f90"
+     ]
+    }
+   }
+  },
+  "othaimeen": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-othaimeen-v1.bin",
+   "size": 28937929,
+   "n": {
+    "l": 3266,
+    "f": 13592,
+    "c": 22,
+    "k": 12,
+    "b": 189,
+    "s": 951
+   },
+   "parts": {
+    "0": [
+     28459524,
+     478405,
+     "75e2d5368d60f9ddb8cf623b3b1598afe900eef9cea27d57a2f26418c20c642c"
+    ]
+   }
+  },
+  "fawzan": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-fawzan-v1.bin",
+   "size": 3065031,
+   "n": {
+    "l": 1944,
+    "k": 184,
+    "c": 578,
+    "f": 11768,
+    "a": 1,
+    "b": 19,
+    "s": 61
+   },
+   "parts": {
+    "0": [
+     2734042,
+     330989,
+     "1538ba3d5746ae0dc5d577b8a21d95fec3d379b1ffe5fc4f02311c10d2c92035"
+    ]
+   },
+   "bk": {
+    "v": 1,
+    "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-fawzan-bk-v1.bin",
+    "size": 2622701,
+    "n": {
+     "parts": 22,
+     "text": 22,
+     "pages": 5082
+    },
+    "parts": {
+     "0": [
+      2610902,
+      11799,
+      "f3d7235e7168d60956fb7dba25f2b43cebaa825447554f3ae62e2b0a2788fe5e"
+     ]
+    }
+   }
+  },
+  "hajuri": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-hajuri-v1.bin",
+   "size": 7446043,
+   "n": {
+    "c": 690,
+    "f": 2378,
+    "k": 432,
+    "l": 14067,
+    "d": 1,
+    "a": 97,
+    "b": 75,
+    "s": 458
+   },
+   "parts": {
+    "0": [
+     6895441,
+     550602,
+     "b96ae3486ba5d3518e3539d886aa1e4e0532dfa9ea50c847d9f8e9d6d083451f"
+    ]
+   },
+   "bk": {
+    "v": 1,
+    "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-hajuri-bk-v1.bin",
+    "size": 2284744,
+    "n": {
+     "parts": 75,
+     "text": 35,
+     "pages": 3377
+    },
+    "parts": {
+     "0": [
+      2277343,
+      7401,
+      "2689d264568bad7b226a4babf957ea9ae179b718854cc3d5547ccc4d8541a337"
+     ]
+    }
+   }
+  },
+  "muqbil": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-muqbil-v1.bin",
+   "size": 2210607,
+   "n": {
+    "f": 4521,
+    "d": 19,
+    "c": 18,
+    "l": 2,
+    "k": 3,
+    "a": 3,
+    "b": 17,
+    "s": 0
+   },
+   "parts": {
+    "0": [
+     2011936,
+     198671,
+     "e5ae0023e77767ec670844800f829bb6164a4b53b0adbdd9d6d496c38c44ab4a"
+    ]
+   },
+   "bk": {
+    "v": 1,
+    "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-muqbil-bk-v1.bin",
+    "size": 4543151,
+    "n": {
+     "parts": 24,
+     "text": 24,
+     "pages": 9811
+    },
+    "parts": {
+     "0": [
+      4521349,
+      21802,
+      "738a85398d4679b0f116f604b4cfd97b5f34227f0f6a2d33d33a1621b67d57ed"
+     ]
+    }
+   }
+  },
+  "albani": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-albani-v1.bin",
+   "size": 25176341,
+   "n": {
+    "f": 24748,
+    "l": 617,
+    "d": 44,
+    "b": 64,
+    "s": 1841
+   },
+   "parts": {
+    "0": [
+     23842332,
+     1334009,
+     "d3b905b8a8c028fdb1cfe5679a5676212f7232174497a4ea4a64115102fcbea2"
+    ]
+   },
+   "bk": {
+    "v": 1,
+    "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-albani-bk-v1.bin",
+    "size": 30989670,
+    "n": {
+     "parts": 183,
+     "text": 183,
+     "pages": 73066
+    },
+    "parts": {
+     "0": [
+      30834947,
+      154723,
+      "e4d54a8d20f92120b120a82faa6d4cf69f40f9175510428d654b6e626caf3985"
+     ]
+    }
+   }
+  },
+  "rabee": {
+   "v": 1,
+   "url": "https://github.com/lahmartoufik14-droid/rafiq-files/releases/download/files/lib-rabee-v1.bin",
+   "size": 2383583,
+   "n": {
+    "f": 660,
+    "c": 153,
+    "l": 162,
+    "d": 97,
+    "a": 158,
+    "p": 18,
+    "b": 213,
+    "s": 16
+   },
+   "parts": {
+    "0": [
+     2304704,
+     78879,
+     "c339cc7143b1649e0863368adc030c3db01e0d560c2c6262101a65be6b938888"
+    ]
+   }
+  }
+ },
+ "signed": "eyJwYWNrcyI6W10sInVpIjp7InZlcnNpb24iOjI5LCJtaW5BcHAiOjEwLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvdWktMjkuemlwIiwic2l6ZSI6ODMxMDIzLCJzaGEyNTYiOiI2YTVkOGM5MWM3YjA5MmI2ODQ5MWQ2ZmJlNGNjMzc4MWNkY2Q1MDVlMzFiMGI5Y2ZkMDMyYjE5YzMxNTZmYmQ5Iiwibm90ZXMiOlsi2KfYs9iq2YjYr9mK2Ygg2K/Zhdin2Kw6INi12YXZkdmFINio2LfYp9mC2Kkg2KPZiCDZhdmC2LfYudin2Ysg2KjYtdmI2Kog2KfZhNi02YrYriDZhdmGINij2Yog2YHYqtmI2YkgKDI0INmC2KfZhNio2KfZiykiXX0sInVwZGF0ZWQiOiIyMDI2LTEwLTI3VDIyOjU4IiwiYXBwIjp7InZlcnNpb25Db2RlIjoxMCwidmVyc2lvbk5hbWUiOiIxLjkiLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvcmFmaXEtMS45LmFwayIsInNpemUiOjQ0NzA2ODMsInNoYTI1NiI6ImNmM2EyYjliZDI0MmZiMzVmZTQ4NjRkMzIxNjIyYzhlM2Y1OWZmOTA1N2NiNTBlNjVjZjZiNTc0OWM1YjkzMGMiLCJub3RlcyI6WyLYp9iz2KrZiNiv2YrZiCDYr9mF2KfYrDog2LXZhdmR2YUg2KjYt9in2YLYqSDYo9mIINmF2YLYt9i52KfZiyDYqNi12YjYqiDYp9mE2LTZitiuINmF2YYg2KPZiiDZgdiq2YjZiSAoMjQg2YLYp9mE2KjYp9mLKSJdfSwiYWxpZ24iOnsiYmluYmF6Ijp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9hbGlnbi1iaW5iYXotdjEuYmluIiwiZG9jcyI6MTQsInBhcnRzIjp7IjEiOlswLDMxMiwiNzEyMWFhODVjNTM5OTc3NTcyYjg1MThhM2Y3ZDQzNGZmZWQxYWMxMjYzNjg5NGM2MTZhYTllM2U5ZWViNzkzYyJdLCI5IjpbMzEyLDQ2NDYsImM0NzQ2N2RjNTUyNzYxYzcwZDAzYjdkY2VkZjlhN2MyNTY0NWY2Y2I4ZjU0NzcwMmI5NWE2NDdlZmYwNDc2MzIiXSwiMTEiOls0OTU4LDI1OSwiNTEwOTE3ZDRkNThkNWNmZmMwZmFlMGYwYjM1NDQxYmM5ZTYyMTY5NTRjYzljM2FjMTM3N2RmMWE2N2ZhOGY4YSJdfX19LCJsaWIiOnsiYmluYmF6Ijp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9saWItYmluYmF6LXYxLmJpbiIsInNpemUiOjE3MzcxODI0LCJuIjp7ImwiOjI0MzMsImMiOjQsImEiOjE2OSwiZCI6MTMzLCJwIjoxMTgsIm0iOjI5OCwiYiI6MjI2LCJzIjo2NH0sInBhcnRzIjp7IjAiOlsxNzIwMDc4MCwxNzEwNDQsIjkxYzdmMTQ3ODE4OWQ5YjBhMzNkNDc4NDRjYWU5M2E1NTMyYjVjZjJhMDY3MzQ1YWI2YzVmOGFiMTEzZDBmNzQiXX0sImJrIjp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9saWItYmluYmF6LWJrLXYxLmJpbiIsInNpemUiOjU3OTgzNzcsIm4iOnsicGFydHMiOjMzMCwidGV4dCI6MzAsInBhZ2VzIjoxMjk3MH0sInBhcnRzIjp7IjAiOls1NzYxNDM0LDM2OTQzLCI2NDJiZWU5NDNjMWVjOGEzZGY4NDFlYjU1OTc4ZjZlNjI2NTE4YjAxZjM4ZWNmNDYyY2RlZWJkNTk3ZDQyZjkwIl19fX0sIm90aGFpbWVlbiI6eyJ2IjoxLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvbGliLW90aGFpbWVlbi12MS5iaW4iLCJzaXplIjoyODkzNzkyOSwibiI6eyJsIjozMjY2LCJmIjoxMzU5MiwiYyI6MjIsImsiOjEyLCJiIjoxODksInMiOjk1MX0sInBhcnRzIjp7IjAiOlsyODQ1OTUyNCw0Nzg0MDUsIjc1ZTJkNTM2OGQ2MGY5ZGRiOGNmNjIzYjNiMTU5OGFmZTkwMGVlZjljZWEyN2Q1N2EyZjI2NDE4YzIwYzY0MmMiXX19LCJmYXd6YW4iOnsidiI6MSwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xhaG1hcnRvdWZpazE0LWRyb2lkL3JhZmlxLWZpbGVzL3JlbGVhc2VzL2Rvd25sb2FkL2ZpbGVzL2xpYi1mYXd6YW4tdjEuYmluIiwic2l6ZSI6MzA2NTAzMSwibiI6eyJsIjoxOTQ0LCJrIjoxODQsImMiOjU3OCwiZiI6MTE3NjgsImEiOjEsImIiOjE5LCJzIjo2MX0sInBhcnRzIjp7IjAiOlsyNzM0MDQyLDMzMDk4OSwiMTUzOGJhM2Q1NzQ2YWUwZGM1ZDU3N2I4YTIxZDk1ZmVjM2QzNzliMWZmZTVmYzRmMDIzMTFjMTBkMmM5MjAzNSJdfSwiYmsiOnsidiI6MSwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xhaG1hcnRvdWZpazE0LWRyb2lkL3JhZmlxLWZpbGVzL3JlbGVhc2VzL2Rvd25sb2FkL2ZpbGVzL2xpYi1mYXd6YW4tYmstdjEuYmluIiwic2l6ZSI6MjYyMjcwMSwibiI6eyJwYXJ0cyI6MjIsInRleHQiOjIyLCJwYWdlcyI6NTA4Mn0sInBhcnRzIjp7IjAiOlsyNjEwOTAyLDExNzk5LCJmM2Q3MjM1ZTcxNjhkNjA5NTZmYjdkYmEyNWYyYjQzY2ViYWE4MjU0NDc1NTRmM2FlNjJlMmIwYTI3ODhmZTVlIl19fX0sImhhanVyaSI6eyJ2IjoxLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvbGliLWhhanVyaS12MS5iaW4iLCJzaXplIjo3NDQ2MDQzLCJuIjp7ImMiOjY5MCwiZiI6MjM3OCwiayI6NDMyLCJsIjoxNDA2NywiZCI6MSwiYSI6OTcsImIiOjc1LCJzIjo0NTh9LCJwYXJ0cyI6eyIwIjpbNjg5NTQ0MSw1NTA2MDIsImI5NmFlMzQ4NmJhNWQzNTE4ZTM1MzlkODg2YWExZTRlMDUzMmRmYTllYTUwYzg0N2Q5ZjhlOWQ2ZDA4MzQ1MWYiXX0sImJrIjp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9saWItaGFqdXJpLWJrLXYxLmJpbiIsInNpemUiOjIyODQ3NDQsIm4iOnsicGFydHMiOjc1LCJ0ZXh0IjozNSwicGFnZXMiOjMzNzd9LCJwYXJ0cyI6eyIwIjpbMjI3NzM0Myw3NDAxLCIyNjg5ZDI2NDU2OGJhZDdiMjI2YTRiYWJmOTU3ZWE5YWUxNzliNzE4ODU0Y2MzZDU1NDdjY2M0ZDg1NDFhMzM3Il19fX0sIm11cWJpbCI6eyJ2IjoxLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvbGliLW11cWJpbC12MS5iaW4iLCJzaXplIjoyMjEwNjA3LCJuIjp7ImYiOjQ1MjEsImQiOjE5LCJjIjoxOCwibCI6MiwiayI6MywiYSI6MywiYiI6MTcsInMiOjB9LCJwYXJ0cyI6eyIwIjpbMjAxMTkzNiwxOTg2NzEsImU1YWUwMDIzZTc3NzY3ZWM2NzA4NDQ4MDBmODI5YmI2MTY0YTRiNTNiMGFkYmRkOWQ2ZDQ5NmMzOGM0NGFiNGEiXX0sImJrIjp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9saWItbXVxYmlsLWJrLXYxLmJpbiIsInNpemUiOjQ1NDMxNTEsIm4iOnsicGFydHMiOjI0LCJ0ZXh0IjoyNCwicGFnZXMiOjk4MTF9LCJwYXJ0cyI6eyIwIjpbNDUyMTM0OSwyMTgwMiwiNzM4YTg1Mzk4ZDQ2NzliMGYxMTZmNjA0YjRjZmQ5N2I1ZjM0MjI3ZjBmNmEyZDMzZDMzYTE2MjFiNjdkNTdlZCJdfX19LCJhbGJhbmkiOnsidiI6MSwidXJsIjoiaHR0cHM6Ly9naXRodWIuY29tL2xhaG1hcnRvdWZpazE0LWRyb2lkL3JhZmlxLWZpbGVzL3JlbGVhc2VzL2Rvd25sb2FkL2ZpbGVzL2xpYi1hbGJhbmktdjEuYmluIiwic2l6ZSI6MjUxNzYzNDEsIm4iOnsiZiI6MjQ3NDgsImwiOjYxNywiZCI6NDQsImIiOjY0LCJzIjoxODQxfSwicGFydHMiOnsiMCI6WzIzODQyMzMyLDEzMzQwMDksImQzYjkwNWI4YThjMDI4ZmRiMWNmZTU2NzlhNTY3NjIxMmY3MjMyMTc0NDk3YTRlYTRhNjQxMTUxMDJmY2JlYTIiXX0sImJrIjp7InYiOjEsInVybCI6Imh0dHBzOi8vZ2l0aHViLmNvbS9sYWhtYXJ0b3VmaWsxNC1kcm9pZC9yYWZpcS1maWxlcy9yZWxlYXNlcy9kb3dubG9hZC9maWxlcy9saWItYWxiYW5pLWJrLXYxLmJpbiIsInNpemUiOjMwOTg5NjcwLCJuIjp7InBhcnRzIjoxODMsInRleHQiOjE4MywicGFnZXMiOjczMDY2fSwicGFydHMiOnsiMCI6WzMwODM0OTQ3LDE1NDcyMywiZTRkNTRhOGQyMGY5MjEyMGIxMjBhODJmYWE2ZDRjZjY5ZjQwZjkxNzU1MTA0MjhkNjU0YjZlNjI2Y2FmMzk4NSJdfX19LCJyYWJlZSI6eyJ2IjoxLCJ1cmwiOiJodHRwczovL2dpdGh1Yi5jb20vbGFobWFydG91ZmlrMTQtZHJvaWQvcmFmaXEtZmlsZXMvcmVsZWFzZXMvZG93bmxvYWQvZmlsZXMvbGliLXJhYmVlLXYxLmJpbiIsInNpemUiOjIzODM1ODMsIm4iOnsiZiI6NjYwLCJjIjoxNTMsImwiOjE2MiwiZCI6OTcsImEiOjE1OCwicCI6MTgsImIiOjIxMywicyI6MTZ9LCJwYXJ0cyI6eyIwIjpbMjMwNDcwNCw3ODg3OSwiYzMzOWNjNzE0M2IxNjQ5ZTA4NjMzNjhhZGMwMzBjM2RiMDFlMGQ1NjBjMmM2MjYyMTAxYTY1YmU2YjkzODg4OCJdfX19fQ==",
+ "sig": "MEUCIGM+MoVpgwl/YYJ6bnlEc6qt5gtA0e5tm7Kf3gPmW/I9AiEA8egGr014MN5V6HPvQf8E8gbDwP1Hfg2YOE/wFoXaBvo="
+}
